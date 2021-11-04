@@ -1,4 +1,9 @@
-Olá! Seja muito bem-vindo ao meu GitHub! <br>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/https://www.linkedin.com/in/eliezer-moraes-silva-80b68010b//)
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=eliezermoraesss)
+
+Olá! Seja muito bem-vindo ao meu GitHub! <br><br>
 Sou estudante de Engenharia de Controle e Automação, com formação prevista para 12/2022. <br>
 Estou fazendo muitos cursos na área de TI, cursando bootcamps, participando de mentorias, desenvolvendo projetos (criando meu portifólio) e publicando-os aqui no LinkedIn e GitHub. <br>
 Estou em constante interação com a comunidade Dev, através do Discord e amigos que já trabalham na área para aprender e ficar imerso no mundo Dev. <br>
@@ -12,6 +17,5 @@ Tive a oportunidade de trabalhar com automação industrial, robótica e partici
 
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=eliezermoraesss)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/https://www.linkedin.com/in/eliezer-moraes-silva-80b68010b//)
+
