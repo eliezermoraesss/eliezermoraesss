@@ -1,11 +1,7 @@
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eliezer-moraes-silva-80b68010b/)
-
 <a href="https://github.com/eliezermoraesss" alt="github" target="_blank">
-
 <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
-
-</a> <br>
+</a>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eliezer-moraes-silva-80b68010b/)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=eliezermoraesss)
 
