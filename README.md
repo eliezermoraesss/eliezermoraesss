@@ -1,4 +1,4 @@
-Seja muito bem-vindo ao meu GithJ
+Olá! Seja muito bem-vindo ao meu GitHub!
 Sou estudante de Engenharia de Controle e Automação, com formação prevista para 12/2022. <br>
 Estou fazendo muitos cursos na área de TI, cursando bootcamps, participando de mentorias, desenvolvendo projetos (criando meu portifólio) e publicando-os aqui no LinkedIn e GitHub. <br>
 Estou em constante interação com a comunidade Dev, através do Discord e amigos que já trabalham na área para aprender e ficar imerso no mundo Dev. <br>
