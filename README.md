@@ -14,4 +14,4 @@ Tive a oportunidade de trabalhar com automação industrial, robótica e partici
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=eliezermoraesss)
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME)   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/https://www.linkedin.com/in/eliezer-moraes-silva-80b68010b//)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/https://www.linkedin.com/in/eliezer-moraes-silva-80b68010b//)
