@@ -16,8 +16,3 @@ Tive a oportunidade de trabalhar com automação industrial, robótica e partici
 <img src="https://github-readme-stats.vercel.app/api?username=eliezermoraesss&show_icons=true&theme=tokyonight"/>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliezermoraesss&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
-
-
-
