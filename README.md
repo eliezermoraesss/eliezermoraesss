@@ -1,7 +1,9 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eliezer-moraes-silva-80b68010b/)<a href="https://wa.me/5519981374137" alt="WhatsApp" target="_blank"> <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5519981374137"/> </a>![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
 
-Olá! Seja muito bem-vindo ao meu <a href="https://github.com/eliezermoraesss" alt="github" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white"></a><br><br>
+## Olá, me chamo Eliezer Moraes Silva! 
+### Bem-vindo ao meu perfil GitHub 👋
+
 Sou estudante de Engenharia de Controle e Automação, com formação prevista para 12/2022. <br>
 Estou fazendo muitos cursos na área de TI, cursando bootcamps, participando de mentorias, desenvolvendo projetos (criando meu portifólio) e publicando-os aqui no LinkedIn e GitHub. <br>
 Estou em constante interação com a comunidade Dev, através do Discord e amigos que já trabalham na área para aprender e ficar imerso no mundo Dev. <br>
