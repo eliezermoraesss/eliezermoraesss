@@ -12,8 +12,6 @@ Atualmente sou eletricista de manutenção. Trabalho na área de manutenção in
 Sou um profissional com mentalidade em Lean Manufacturing, Six Sigma, redução de desperdícios, focando sempre em melhoria contínua dos processos. <br>
 Tive a oportunidade de trabalhar com automação industrial, robótica e participei de projetos nas indústrias pelas quais eu passei, desde o planejamento, execução, análise/testes e ações de melhoría.
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliezermoraesss&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=eliezermoraesss&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliezermoraesss&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/><img src="https://github-readme-stats.vercel.app/api?username=eliezermoraesss&show_icons=true&theme=tokyonight"/>
 
 ![Snake animation](https://github.com/eliezermoraesss/eliezermoraesss/blob/output/github-contribution-grid-snake.svg)
