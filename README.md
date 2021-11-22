@@ -4,15 +4,23 @@
 ## Olá, me chamo Eliezer Moraes Silva! 
 ### Bem-vindo ao meu perfil GitHub! 😁👋
 
-Sou estudante de Engenharia de Controle e Automação, com formação prevista para 12/2022. <br>
-Estou fazendo muitos cursos na área de TI, cursando bootcamps, participando de mentorias, desenvolvendo projetos (criando meu portifólio) e publicando-os aqui no LinkedIn e GitHub. <br>
-Estou em constante interação com a comunidade Dev, através do Discord e amigos que já trabalham na área para aprender e ficar imerso no mundo Dev. <br>
-Estou em busca de conquistar uma oportunidade de trabalhar como Desenvolvendor Backend/QA e entrar no mercado de trabalho. <br>
-Almejo um dia me tornar um Cientista de Dados, e consultor em BI. <br>
-Como hobby, entusiasta em IOT, sistemas embarcados e músico trompetista nas horas vagas. <br>
-Atualmente sou eletricista de manutenção. Trabalho na área de manutenção industrial há mais de 5 anos e por 3 anos trabalhei na área de engenharia de desenvolvimento de produtos, como desenhista projetista. <br>
-Sou um profissional com mentalidade em Lean Manufacturing, Six Sigma, redução de desperdícios, focando sempre em melhoria contínua dos processos. <br>
-Tive a oportunidade de trabalhar com automação industrial, robótica e participei de projetos nas indústrias pelas quais eu passei, desde o planejamento, execução, análise/testes e ações de melhoría.
+🧑🏻‍🔧 <br><br>
+
+Sou eletricista de manutenção industrial há mais de 5 anos e por 3 anos trabalhei na área de engenharia de desenvolvimento de produtos, como desenhista projetista.<br>
+Estou em transição de carreira para conquistar meu sonho de trabalhar na área de TI como Desenvolvedor Backend.<br>
+Tive a oportunidade de trabalhar com automação industrial, robótica e participei de projetos nas indústrias pelas quais eu passei, desde o planejamento, execução, análise/testes e ações de melhoría.<br>
+Na minha jornada como eletricista e projetista, desenvolvi muita disciplina, responsabilidade para entregar resultados, fôco, ânsia para inovar, criar melhorias e ter um bom relacionamento com as pessoas ao meu redor, o trabalho em equipe sempre buscando a excelência do time e da empresa.<br>
+Eu procuro unir minhas competências, habilidades e ter atitude, para fazer as coisas acontecerem.<br><br>
+
+🧑🏻‍💻<br><br>
+
+Sou estudante de Engenharia de Controle e Automação, com formação prevista para 12/2022.<br>
+Estou fazendo muitos cursos na área de TI, cursando bootcamps, participando de mentorias, desenvolvendo projetos (criando meu portifólio) e publicando-os aqui no LinkedIn e GitHub.<br>
+Sempre fui apaixonado por tecnologia e como nada vem fácil nesta vida, com muita disciplina, dedicação, fôco e fé, sei que chegarei lá.<br>
+As plataformas de ensino que estudo são: DIGITAL INNOVATION ONE, DEVSUPERIOR, UDEMY, ALURA e ROCKETSEAT.<br>
+Estou em constante interação com a comunidade Dev, através do Discord e amigos que já trabalham na área para aprender com os profissionais e ficar imerso no mundo da tecnologia.<br>
+Almejo para o futuro me especializar em Engenharia de Software e Data Science.<br>
+Como hobby, sou entusiasta em IOT, sistemas embarcados e músico trompetista nas horas vagas.<br><br>
 
 <div>
 <a href="https://github.com/eliezermoraesss">
