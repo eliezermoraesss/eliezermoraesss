@@ -6,7 +6,7 @@
 
 ![Snake animation](https://github.com/eliezermoraesss/eliezermoraesss/blob/output/github-contribution-grid-snake.svg)
 
-🧑🏻‍🔧 <br><br>
+🧑🏻‍🔧 <br>
 
 Sou eletricista de manutenção industrial há mais de 5 anos e por 3 anos trabalhei na área de engenharia de desenvolvimento de produtos, como desenhista projetista.<br>
 Estou em transição de carreira para conquistar meu sonho de trabalhar na área de TI como Desenvolvedor Backend.<br>
@@ -14,7 +14,7 @@ Tive a oportunidade de trabalhar com automação industrial, robótica e partici
 Na minha jornada como eletricista e projetista, desenvolvi muita disciplina, responsabilidade para entregar resultados, fôco, ânsia para inovar, criar melhorias e ter um bom relacionamento com as pessoas ao meu redor, o trabalho em equipe sempre buscando a excelência do time e da empresa.<br>
 Eu procuro unir minhas competências, habilidades e ter atitude, para fazer as coisas acontecerem.<br><br>
 
-🧑🏻‍💻<br><br>
+🧑🏻‍💻<br>
 
 Sou estudante de Engenharia de Controle e Automação, com formação prevista para 12/2022.<br>
 Estou fazendo muitos cursos na área de TI, cursando bootcamps, participando de mentorias, desenvolvendo projetos (criando meu portifólio) e publicando-os aqui no LinkedIn e GitHub.<br>
