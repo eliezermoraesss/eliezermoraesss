@@ -4,6 +4,8 @@
 ## Olá, me chamo Eliezer Moraes Silva! 
 ### Bem-vindo ao meu perfil GitHub! 😁👋
 
+![Snake animation](https://github.com/eliezermoraesss/eliezermoraesss/blob/output/github-contribution-grid-snake.svg)
+
 🧑🏻‍🔧 <br><br>
 
 Sou eletricista de manutenção industrial há mais de 5 anos e por 3 anos trabalhei na área de engenharia de desenvolvimento de produtos, como desenhista projetista.<br>
@@ -27,5 +29,3 @@ Como hobby, sou entusiasta em IOT, sistemas embarcados e músico trompetista nas
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezermoraesss&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliezermoraesss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/eliezermoraesss/eliezermoraesss/blob/output/github-contribution-grid-snake.svg)
