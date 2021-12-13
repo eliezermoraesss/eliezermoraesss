@@ -1,6 +1,6 @@
 
 ## Olá, me chamo Eliezer Moraes Silva! 
-### Bem-vindo ao meu GitHub! 😁🖖🏼
+### Bem-vindo ao meu GitHub!🤓👋
 
 ![Snake animation](https://github.com/eliezermoraesss/eliezermoraesss/blob/output/github-contribution-grid-snake.svg) <br> <br>
 
