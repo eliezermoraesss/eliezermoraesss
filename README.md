@@ -13,10 +13,9 @@
 🧑🏻‍🔧 <br>
 
 Sou eletricista de manutenção industrial há mais de 5 anos e por 3 anos trabalhei na área de engenharia de desenvolvimento de produtos, como desenhista projetista.<br>
-Estou em transição de carreira para conquistar meu sonho de trabalhar na área de TI como Desenvolvedor Backend.<br>
+Estou em transição de carreira para conquistar meu sonho de trabalhar na área de TI como Desenvolvedor Backend Java.<br>
 Tive a oportunidade de trabalhar com automação industrial, robótica e participei de projetos nas indústrias pelas quais eu passei, desde o planejamento, execução, análise/testes e ações de melhoría.<br>
-Na minha jornada como eletricista e projetista, desenvolvi muita disciplina, responsabilidade para entregar resultados, fôco, ânsia para inovar, criar melhorias e ter um bom relacionamento com as pessoas ao meu redor, o trabalho em equipe sempre buscando a excelência do time e da empresa.<br>
-Eu procuro unir minhas competências, habilidades e ter atitude, para fazer as coisas acontecerem.<br><br>
+Na minha jornada como eletricista e projetista, desenvolvi muita persistência, disciplina, responsabilidade para entregar resultados, fôco, ânsia para inovar, criar melhorias e ter um bom relacionamento com as pessoas ao meu redor, o trabalho em equipe sempre buscando a excelência do time e da empresa.<br><br>
 
 🧑🏻‍💻<br>
 
