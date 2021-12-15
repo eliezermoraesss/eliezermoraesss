@@ -20,12 +20,11 @@ Na minha jornada como eletricista e projetista, desenvolvi muita persistência, 
 🧑🏻‍💻<br>
 
 Sou estudante de Engenharia de Controle e Automação, com formação prevista para 12/2022.<br>
-Estou fazendo muitos cursos na área de TI, cursando bootcamps, participando de mentorias, desenvolvendo projetos (criando meu portifólio) e publicando-os aqui no LinkedIn e GitHub.<br>
+Estou estudando Java na Udemy (Professor Nélio Alves), bootcamp Spring React (DevSuperior), participando de mentorias e desenvolvendo projetos para criar meu portifólio, publicando-os aqui no LinkedIn e GitHub. <br>
 Sempre fui apaixonado por tecnologia e como nada vem fácil nesta vida, com muita disciplina, dedicação, fôco e fé, sei que chegarei lá.<br>
 As plataformas de ensino que estudo são: DIGITAL INNOVATION ONE, DEVSUPERIOR, UDEMY, ALURA e ROCKETSEAT.<br>
-Estou em constante interação com a comunidade Dev, através do Discord e amigos que já trabalham na área para aprender com os profissionais, ficar imerso no mundo da tecnologia e também poder ajudar o próximo, pois acredito que a tecnologia transforma a sociedade e transforma vidas, por isso quero fazer parte desta história.<br>
-Meu objetivo no futuro é ser um Full Stack.<br>
-Como hobby, sou entusiasta em sistemas embarcados e músico trompetista nas horas vagas.<br><br>
+Acredito que a tecnologia transforma a sociedade e vidas e quero fazer parte desta história.<br>
+Como hobby, sou entusiasta em eletrônica, IOT, sistemas embarcados e músico trompetista nas horas vagas.<br><br>
 
 <div>
 <a href="https://github.com/eliezermoraesss">
