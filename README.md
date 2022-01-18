@@ -18,7 +18,7 @@ Cursos e Bootcamps:
 - Spread Java Developer (97 horas);
 - Java Developer (120 horas);
 - Web Developer (27 horas);
-- Spring React (16 horas);
+- Semana Spring React DevSuperior (16 horas);
 - everis Quality Assurance Beginner #3 (37 horas);
 - New Talents Everis Java Developer Back-end #1 (88 horas);
 - New Talents Everis Java Developer Back-end #2 (70 horas);
