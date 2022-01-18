@@ -1,6 +1,37 @@
 
 ### Olá,  meu nome é Eliezer Moraes Silva!
-### Bem-vindo(a) ao meu GitHub! ☺️👋
+### Bem-vindo(a) ao meu GitHub! ☺️👋 <br>
+
+Tecnologias que tenho conhecimento:
+- SO: Windows e Linux;
+- Java (Spring Boot);
+- ReactJS (HTML, CSS, JS);
+- Bancos Relacionais (MySQL, PostgreSQL);
+- Excel;
+- Docker;
+- AWS;
+
+Cursos e Bootcamps:
+- Java Completo POO + Projetos (50 horas, Udemy, finalizando);
+- Banco de Dados e SQL (58 horas, Udemy, finalizando);
+- TQI Java Developer (125 horas);
+- Spread Java Developer (97 horas);
+- Java Developer (120 horas);
+- Web Developer (27 horas);
+- Spring React (16 horas);
+- everis Quality Assurance Beginner #3 (37 horas);
+- New Talents Everis Java Developer Back-end #1 (88 horas);
+- New Talents Everis Java Developer Back-end #2 (70 horas);
+- New Talents Everis Java Developer Back-end #3 (91 horas);
+- GFT Java & AWS Developer (50 horas);
+
+Conhecimentos em:
+- Desenvolvimento Ágil;
+- Microsserviços;
+- Lean Manufacturing;
+
+Hobbies:
+- Ler, Jogar video game e tocar trompete.
 
 👨🏻‍💻<br>
 Sou estudante de Desenvolvimento Backend focado em Java, Spring e React. <br>
