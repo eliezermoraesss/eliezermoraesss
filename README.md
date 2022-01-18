@@ -5,7 +5,6 @@
 👨🏻‍💻<br>
 Sou estudante de Desenvolvimento Backend focado em Java, Spring e React. <br>
 Procuro uma oportunidade de trabalho para iniciar minha carreira e entrar no mercado de tecnologia. <br>
-🧑🏻‍💻<br>
 Estou estudando Java na Udemy (Professor Nélio Alves), bootcamp Spring React (DevSuperior), participando de mentorias e desenvolvendo projetos para criar meu portifólio, publicando-os aqui no LinkedIn e GitHub. <br>
 Sempre fui apaixonado por tecnologia e como nada vem fácil nesta vida, com muita disciplina, dedicação, fôco e fé, sei que chegarei lá.<br>
 As plataformas de ensino que estudo são: DIGITAL INNOVATION ONE, DEVSUPERIOR, UDEMY, ALURA e ROCKETSEAT.<br>
