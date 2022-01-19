@@ -11,7 +11,7 @@ Tive a oportunidade de trabalhar com automação industrial, robótica e partici
 ### Contato:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eliezer-moraes-silva-80b68010b/)
 <a href="https://wa.me/5519981374137" alt="WhatsApp" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a>
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://www.linkedin.com/in/eliezer-moraes-silva-80b68010b/)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/eliezermoraes)
 
 
 ### Hard Skills:
