@@ -13,6 +13,8 @@ Tive a oportunidade de trabalhar com automação industrial, robótica e partici
 <a href="https://wa.me/5519981374137" alt="WhatsApp" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a>
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/eliezermoraes)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/eliezer.moraesss/)
+[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](eliezer.moraes@outlook.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](eliezer.ingproj@gmail.com)
 
 
 ### Hard Skills:
