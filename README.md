@@ -1,7 +1,7 @@
 
 ### Olá, eu sou o Eliezer Moraes Silva! 😁 
 
-- 🎯 Estudante de Engenharia de Controle e Automação e futuro Desenvolvedor Back-end Java.
+- 🎯 Estudante de Engenharia de Controle e Automação (formação prevista para dez/2022) e futuro Desenvolvedor Back-end Java.
 - 👨🏻‍💻 Iniciei nesta jornada em junho/2021.
 - 📚 Atualmente estudando Java.
 - ⚡ Curiosidade: Sou eletricista de manutenção industrial há mais de 5 anos e trabalhei como desenhista projetista por 3 anos. <br>
