@@ -6,7 +6,7 @@
 - 📚 Atualmente estudando Java.
 - ⚡ Curiosidade: Sou eletricista de manutenção industrial há mais de 5 anos e trabalhei como desenhista projetista por 3 anos. <br>
 Tive a oportunidade de trabalhar com automação industrial, robótica e participei de projetos nas indústrias pelas quais eu passei, desde o planejamento, execução, análise/testes e ações de melhoría.
-- 🎺 Hobbies: Ler, caminhar, Arduino, games e tocar trompete.
+- 🎺 Hobbies: Ler, caminhar, projetos eletrônicos (sistemas embarcados como o arduino e ESP32), games e tocar trompete.
 
 ### Contato:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eliezer-moraes-silva-80b68010b/)
