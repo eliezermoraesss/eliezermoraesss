@@ -1,5 +1,5 @@
 
-### Olá, eu sou o Eliezer Moraes Silva! 😁 
+### Olá, eu sou Eliezer Moraes Silva! 😁 
 
 - 🎯 Estudante de Análise e Desenvolvimento de Sistemas (formação prevista para dez/2023) e futuro Desenvolvedor Back-end Java.
 - 👨🏻‍💻 Iniciei nesta jornada em junho/2021.
