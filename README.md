@@ -30,3 +30,4 @@ Como profissional, desenvolvi muita disciplina, persistência, responsabilidade 
 </div>
   
   ![Snake animation](https://github.com/eliezermoraesss/eliezermoraesss/blob/output/github-contribution-grid-snake.svg) <br> <br>
+  
