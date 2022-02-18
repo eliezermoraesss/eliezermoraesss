@@ -1,9 +1,9 @@
 
 ### Olá, eu sou Eliezer Moraes Silva! 😁 
 
-- 🎯 Estudante de Análise e Desenvolvimento de Sistemas (formação prevista para dez/2023) e Desenvolvedor Back-end Java em ascenção!
-- 👨🏻‍💻 Iniciei nesta jornada em junho/2021.
-- 📚 Atualmente estudando Java.
+- 🎯 Estudante de Análise e Desenvolvimento de Sistemas (formação prevista para dez/2023) e Desenvolvedor Back-end Java em ascenção! <br>
+- 👨🏻‍💻 Iniciei nesta linda e maravilhosa jornada em junho/2021. <br>
+- 📚 Atualmente sou eletricista de manutenção industrial e estou em transição de carreira para atuar como Desenvolvedor Back-End Java. <br>
 - ⚡ Curiosidade: Sou eletricista de manutenção industrial há mais de 5 anos e trabalhei como desenhista projetista por 3 anos. <br>
 Tive a oportunidade de trabalhar com automação industrial, robótica e participei de projetos nas indústrias pelas quais eu passei, desde o planejamento, execução, análise/testes e ações de melhoría.
 - 🎺 Hobbies: Ler, caminhar, projetos eletrônicos (sistemas embarcados como o arduino e ESP32), games e tocar trompete.
