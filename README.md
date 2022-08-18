@@ -6,7 +6,7 @@
 - 📚 Iniciei esta jornada em junho/2021. <br>
 - ⚡ Curiosidade: Trabalhei como eletricista de manutenção industrial por mais de 5 anos e trabalhei como desenhista projetista por 3 anos. <br>
 Tive a oportunidade de trabalhar com automação industrial, robótica e participei de projetos nas indústrias pelas quais eu passei, desde o planejamento, execução, análise/testes e ações de melhoría.
-- 🎺 Hobbies: Ler, caminhar, projetos eletrônicos (sistemas embarcados como o arduino e ESP32), games e tocar trompete.
+- 🎺 Hobbies: Tocar trompa e trompete, ler, praticar exercícios físicos (treinamento funcional, caminhar e correr), projetos eletrônicos (sistemas embarcados como o Arduino e ESP32) e jogar video game.
 
 ### Contato:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eliezer-moraes-silva-80b68010b/)
