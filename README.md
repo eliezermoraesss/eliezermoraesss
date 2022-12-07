@@ -12,7 +12,7 @@ Como profissional, desenvolvi muita disciplina, persistência, responsabilidade 
 
 ### Tecnologias:
 
-<img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+<img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
           <img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /><img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
             <img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
             <img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
