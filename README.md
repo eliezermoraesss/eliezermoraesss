@@ -4,7 +4,7 @@
 - 👨🏼‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho como QA, analista de testes funcionais, mas, meu objetivo e foco é conseguir uma oportunidade na área de desenvolvimento backend. <br>
 - 🎯 Estudante de Análise e Desenvolvimento de Sistemas (formação prevista para dez/2023) e Desenvolvedor Back-end Java em ascenção! <br>
 - 📚 Iniciei esta jornada em junho/2021. <br>
-- ⚡ Curiosidade: Trabalhei como desenhista projetista por 3 anos e eletricista de manutenção industrial por mais de 5 anos. <br>
+- ⚡ Curiosidade: Trabalhei como desenhista projetista mecânico por 3 anos e eletricista de manutenção industrial por mais de 5 anos. <br>
 Tive a oportunidade de trabalhar com automação industrial, robótica e participei de projetos nas indústrias pelas quais eu passei, desde o planejamento, execução, análise/testes e ações de melhoría.
 - 🎺 Hobbies: Tocar trompa e trompete, ler, praticar exercícios físicos (treinamento funcional, caminhar e correr), projetos eletrônicos (sistemas embarcados como o Arduino e ESP32) e jogar video game.
 
