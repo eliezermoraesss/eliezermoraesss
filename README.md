@@ -1,12 +1,12 @@
 
 ### Olá, eu sou Eliezer Moraes Silva! 😁 
 
-- 👨🏼‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho como QA, analista de testes funcionais, mas, meu objetivo e foco é conseguir uma oportunidade na área de desenvolvimento backend. <br>
-- 🎯 Estudante de Análise e Desenvolvimento de Sistemas (formação prevista para dez/2023) e Desenvolvedor Back-end Java em ascenção! <br>
+- 👨🏼‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas. Meu objetivo e foco é conseguir uma oportunidade na área de desenvolvimento backend. <br>
+- 🎯 Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Back-end Java em ascenção! <br>
 - 📚 Iniciei esta jornada em junho/2021. <br>
-- ⚡ Curiosidade: Trabalhei como desenhista projetista mecânico por 3 anos e eletricista de manutenção industrial por mais de 5 anos. <br>
+- ⚡ Curiosidade: Trabalhei como desenhista projetista mecânico por 3 anos e na área de manutenção industrial por mais de 6 anos. <br>
 Tive a oportunidade de trabalhar com automação industrial, robótica e participei de projetos nas indústrias pelas quais eu passei, desde o planejamento, execução, análise/testes e ações de melhoría.
-- 🎺 Hobbies: Tocar trompa e trompete, ler, praticar exercícios físicos (treinamento funcional, caminhar e correr), projetos eletrônicos (sistemas embarcados como o Arduino e ESP32) e jogar video game.
+- 🎺 Hobbies: Viajar, caminhar, passear com o doguinho, tocar trompa e trompete, ler, projetos eletrônicos (sistemas embarcados como o Arduino e ESP32) e jogar video game.
 
 Como profissional, desenvolvi muita disciplina, persistência, responsabilidade para entregar resultados, foco, ânsia para inovar, criar melhorias e ter um bom relacionamento com as pessoas ao meu redor, trabalhar em equipe, sempre buscando a excelência do time e da empresa e nunca fazendo o mais do mesmo.<br>
 
