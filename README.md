@@ -8,7 +8,7 @@
 Tive a oportunidade de trabalhar com automação industrial, robótica e participei de projetos nas indústrias pelas quais eu passei, desde o planejamento, execução, análise/testes e ações de melhoría.
 - 🎺 Hobbies: Viajar, caminhar, passear com o doguinho, tocar trompa e trompete, ler, projetos eletrônicos (sistemas embarcados como o Arduino e ESP32) e jogar video game.
 
-Trabalhei por 1 ano como Analista Desenvolvedor de Sistemas Júnior atuando por 6 meses como QA, fazendo testes funcionais, regressão e plano de testes. E por 6 meses, aprendendo na área de desenvolvimento, utilizando a linguagem de programação Java, na empresa <a href="https://spread.com.br/">Spread Tecnologia</a>.<br>
+Trabalhei por 1 ano como Analista Desenvolvedor de Sistemas Júnior atuando por 6 meses como QA, atuando como analista de testes funcionais, regressão e plano de testes. E por 6 meses, aprendendo na área de desenvolvimento, utilizando a linguagem de programação Java, na empresa <a href="https://spread.com.br/">Spread Tecnologia</a>.<br>
 Em junho de 2021, decidi fazer transição de carreira e desde então estou estudando e me dedicando na programação, montando meu portifólio de projetos pessoais e fazendo networking. Estou focado em Desenvolvimento Backend, e claro, procuro me aprimorar rumo à Engenharia de Software.
 
 ### Tecnologias:
