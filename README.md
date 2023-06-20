@@ -11,6 +11,9 @@ Tive a oportunidade de trabalhar com automação industrial, robótica e partici
 Trabalhei por 1 ano como Analista Desenvolvedor de Sistemas Júnior atuando por 6 meses como QA, como analista de testes funcionais, regressão e plano de testes. Por 6 meses, trabalhei na área de desenvolvimento utilizando Java e Spring na empresa <a href="https://spread.com.br/">Spread Tecnologia</a>.<br>
 Em junho de 2021, decidi fazer transição de carreira e desde então estou estudando e me dedicando na programação, montando meu portifólio de projetos pessoais e fazendo networking. Estou focado em Desenvolvimento Backend, e claro, procuro me aprimorar rumo à Engenharia de Software.
 
+### MEU PORTIFÓLIO DE PROJETOS 👨🏼‍💻😊
+#### Dashboard de Vendas: https://dsvendas-eliezermoraes.netlify.app/
+
 ### Tecnologias:
 
 <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
