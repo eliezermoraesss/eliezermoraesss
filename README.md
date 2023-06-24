@@ -13,7 +13,8 @@ Em junho de 2021, decidi fazer transição de carreira e desde então estou estu
 
 ### MEUS PROJETOS DE PORTIFÓLIO 
 ### {em construção 🛠👨‍💻}
-#### Dashboard de Vendas: https://dsvendas-eliezermoraes.netlify.app/
+### 🟢 Dashboard de Vendas: https://dsvendas-eliezermoraes.netlify.app/
+### 🟢 Projeto RFID Arduino: https://www.youtube.com/watch?v=cUS2qG1Hij0
 
 ### Tecnologias:
 
