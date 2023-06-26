@@ -12,9 +12,12 @@ Trabalhei por 1 ano como Analista Desenvolvedor de Sistemas Júnior atuando por 
 Em junho de 2021, decidi fazer transição de carreira e desde então estou estudando e me dedicando na programação, montando meu portifólio de projetos pessoais e fazendo networking. Estou focado em Desenvolvimento Backend, e claro, procuro me aprimorar rumo à Engenharia de Software.
 
 ### MEUS PROJETOS DE PORTIFÓLIO 
-### {em construção 🛠👨‍💻}
-### 🟢 Dashboard de Vendas: https://dsvendas-eliezermoraes.netlify.app/
-### 🟢 Projeto RFID Arduino: https://www.youtube.com/watch?v=cUS2qG1Hij0
+
+#### 🟢 Dashboard de Vendas: https://dsvendas-eliezermoraes.netlify.app/
+#### 🟢 Projeto RFID Arduino: 
+#### 👩‍💻 Repositório: https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management
+#### 🎬 Vídeo: https://www.youtube.com/watch?v=cUS2qG1Hij0
+
 
 ### Tecnologias:
 
