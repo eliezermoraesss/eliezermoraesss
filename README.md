@@ -7,6 +7,29 @@
 - ⚡ Curiosidade: Trabalhei como desenhista projetista mecânico por 3 anos e na área de manutenção industrial por mais de 6 anos. <br>
 Tive a oportunidade de trabalhar com automação industrial, robótica e participei de projetos nas indústrias pelas quais eu passei, desde o planejamento, execução, análise/testes e ações de melhoría.
 - 🎺 Hobbies: Viajar, caminhar, passear com o doguinho, tocar trompa e trompete, ler, projetos eletrônicos (sistemas embarcados como o Arduino e ESP32) e jogar video game.
+### Conhecimentos:
+- Lógica de programação, algoritmos, estrutura de dados, POO, modelagem de banco de dados UML.
+- HTML, CSS, JavaScript (básico, a base).
+- React.JS (estudando)
+- Java 8+.
+- DDD.
+- Microservices.
+- API RESTful, JDBC, Java Bean, JPA, Hibernate, Hateoas.
+- Spring Framework (Web, Data JPA, Validator, Security, Cloud), CRUD, ORM, Testes, Validação e Segurança, Autenticação e Autorização, Tratamento de exceções personalizados.
+- Git/GitHub.
+- Testes unitários, testes de integração, TDD (JUnit, Mockito & MockBean).
+- Testes automatizados com Robot Framework.
+- Execução de testes funcionais, testes manuais, regressão e criação de plano de testes de acordo com o projeto.
+- OpenAPI, Swagger.
+- Design Patterns, Clean Code (estudando).
+- Docker/Docker Compose.
+- CI/CD.
+- SQL.
+- Banco de dados relacional (Oracle PL/SQL, MySQL, PostgreSQL).
+- Banco de NoSQL (MongoDB).
+- AWS.
+- Windows, Linux.
+- Eclipse, IntelliJ, VSCode.
 
 Trabalhei por 1 ano como Analista Desenvolvedor de Sistemas Júnior atuando por 6 meses como QA, como analista de testes funcionais, regressão e plano de testes. Por 6 meses, trabalhei na área de desenvolvimento utilizando Java e Spring na empresa <a href="https://spread.com.br/">Spread Tecnologia</a>.<br>
 Em junho de 2021, decidi fazer transição de carreira e desde então estou estudando e me dedicando na programação, montando meu portifólio de projetos pessoais e fazendo networking. Estou focado em Desenvolvimento Backend, e claro, procuro me aprimorar rumo à Engenharia de Software.
