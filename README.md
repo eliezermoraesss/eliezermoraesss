@@ -14,6 +14,7 @@ Tive a oportunidade de trabalhar com automação industrial, robótica e partici
 - Java 8+.
 - DDD.
 - Microservices.
+- RabbitMQ.
 - API RESTful, JDBC, Java Bean, JPA, Hibernate, Hateoas.
 - Spring Framework (Web, Data JPA, Validator, Security, Cloud), CRUD, ORM, Testes, Validação e Segurança, Autenticação e Autorização, Tratamento de exceções personalizados.
 - Git/GitHub.
