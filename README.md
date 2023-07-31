@@ -4,7 +4,9 @@
 - 👨🏼‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas. Meu objetivo e foco é conseguir uma oportunidade na área de desenvolvimento backend. <br>
 - 🎯 Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Back-end Java em ascenção! <br>
 - 📚 Iniciei esta jornada em junho/2021. <br>
-- ⚡ Em junho de 2021, decidi fazer transição de carreira e desde então estou estudando e me dedicando na programação, montando meu portifólio de projetos pessoais e fazendo networking. Estou focado em Desenvolvimento Backend, e claro, procuro me aprimorar rumo à Engenharia de Software. <br>
+- ⚡ Decidi fazer transição de carreira e desde então estou estudando e me dedicando na programação, montando meu portifólio de projetos pessoais e fazendo networking. Estou focado em Desenvolvimento Backend, e claro, procuro me aprimorar rumo à Engenharia de Software. <br>
+Sou um profissional com mais de 10 anos de experiência atuando entre as áreas de engenharia e manutenção industrial, atuando como desenhista projetista, técnico de manutenção elétrica, eletromecânico, eletricista e também desenvolvendo e executando projetos de automação industrial.
+Ao longo desses anos, desenvolvi disciplina, comunicação, persistência, perseverança e resiliência para resolver os problemas, sempre buscando me comunicar com o time e trabalhar em equipe para atingirmos juntos os nossos resultados.
 Tive a oportunidade de trabalhar com automação industrial, robótica e participei de projetos nas indústrias pelas quais eu passei, desde o planejamento, execução, análise/testes e ações de melhoría.
 - 🎺 Hobbies: Viajar, caminhar, passear com o doguinho, tocar trompa e trompete, ler, projetos eletrônicos (sistemas embarcados como o Arduino e ESP32) e jogar video game.
 
