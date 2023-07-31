@@ -11,10 +11,13 @@ Tive a oportunidade de trabalhar com automação industrial, robótica e partici
 ### Portifólio de projetos 💻📚🛠
 
 #### 🔷 https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react
+#### 🔷 https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management
 #### 🔷 https://github.com/eliezermoraesss/api-rest-spring-dscatalog
 #### 🔷 https://github.com/eliezermoraesss/microservices-java-spring-cloud-docker_compose
 #### 🔷 https://github.com/eliezermoraesss/ms-course
-#### 🔷 https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management
+#### 🔷 https://github.com/eliezermoraesss/workshop-spring-boot-mongodb
+#### 🔷 https://github.com/eliezermoraesss/projeto-sds5-spring-reactjs
+#### 🔷 https://github.com/eliezermoraesss/microservices-course-java-spring-cloud
 
 ### Tecnologias:
 
