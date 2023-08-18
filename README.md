@@ -10,7 +10,7 @@ Ao longo desses anos, desenvolvi disciplina, comunicação, persistência, perse
 Tive a oportunidade de trabalhar com automação industrial, robótica e participei de projetos nas indústrias pelas quais eu passei, desde o planejamento, execução, análise/testes e ações de melhoría.
 - 🎺 Hobbies: Viajar, caminhar, passear com o doguinho, tocar trompa e trompete, ler, projetos eletrônicos (sistemas embarcados como o Arduino e ESP32) e jogar video game.
 
-### Portifólio de projetos 💻📚🛠
+### Projetos de Portifólio 💻📚🛠
 
 #### 🔷 https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react
 #### 🔷 https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management
