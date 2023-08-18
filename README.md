@@ -15,6 +15,7 @@ Tive a oportunidade de trabalhar com automação industrial, robótica e partici
 #### 🔷 https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react
 #### 🔷 https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management
 #### 🔷 https://github.com/eliezermoraesss/api-rest-spring-dscatalog
+#### 🔷 https://github.com/eliezermoraesss/Testes_Automatizados-Unitarios-Integrados-TDD-Mockito-MockBean-Springboot
 #### 🔷 https://github.com/eliezermoraesss/microservices-java-spring-cloud-docker_compose
 #### 🔷 https://github.com/eliezermoraesss/microservices-course-java-spring-cloud
 #### 🔷 https://github.com/eliezermoraesss/workshop-spring-boot-mongodb
