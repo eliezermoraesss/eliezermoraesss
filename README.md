@@ -13,6 +13,7 @@ Tive a oportunidade de trabalhar com automação industrial, robótica e partici
 ### Projetos de Portifólio 💻📚🛠
 
 #### 🔷 https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react
+#### 🔷 https://github.com/eliezermoraesss/demo-dao-jdbc-eliezer
 #### 🔷 https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management
 #### 🔷 https://github.com/eliezermoraesss/api-rest-spring-dscatalog
 #### 🔷 https://github.com/eliezermoraesss/microservices-java-spring-cloud-docker_compose
