@@ -8,7 +8,7 @@
 Meu sonho é ser um agente transformador ajudando vidas através da tecnologia.
 Estou adquirindo experiência desenvolvendo projetos pessoais e procurando contribuir com projetos open-source.
 - 🎺 Hobbies: Viajar, caminhar, passear com o doguinho, tocar trompa e trompete, ler, projetos eletrônicos (sistemas embarcados como o Arduino e ESP32) e jogar video game.
-- Sempre buscando conhecimento ✨
+- Sempre buscando conhecimento. ✨
 
 ## 📞 Contato
 
@@ -37,26 +37,26 @@ Estou adquirindo experiência desenvolvendo projetos pessoais e procurando contr
 
 ## 👨🏼‍💻 Projetos
 
-### https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react
-### https://github.com/eliezermoraesss/demo-dao-jdbc-eliezer
-### https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management
-### https://github.com/eliezermoraesss/api-rest-spring-dscatalog
-### https://github.com/eliezermoraesss/microservices-java-spring-cloud-docker_compose
-### https://github.com/eliezermoraesss/microservices-course-java-spring-cloud
-### https://github.com/eliezermoraesss/workshop-spring-boot-mongodb
-### https://github.com/eliezermoraesss/projeto-sds5-spring-reactjs
-### https://github.com/eliezermoraesss/bds04-validation-security-spring
-### https://github.com/eliezermoraesss/react-layout-navigation-challenge
+<ul>
+<li>https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react</li>
+<li>https://github.com/eliezermoraesss/demo-dao-jdbc-eliezer</li>
+<li>https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management</li>
+<li>https://github.com/eliezermoraesss/api-rest-spring-dscatalog</li>
+<li>https://github.com/eliezermoraesss/microservices-java-spring-cloud-docker_compose</li>
+<li>https://github.com/eliezermoraesss/microservices-course-java-spring-cloud</li>
+<li>https://github.com/eliezermoraesss/workshop-spring-boot-mongodb</li>
+<li>https://github.com/eliezermoraesss/projeto-sds5-spring-reactjs</li>
+<li>https://github.com/eliezermoraesss/bds04-validation-security-spring</li>
+<li>https://github.com/eliezermoraesss/react-layout-navigation-challenge</li>
+</ul>
 
-### Minhas Contribuições
+## 🤝🏼 Minhas Contribuições
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eliezermoraesss&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eliezermoraesss/dio-lab-open-source)     
 
 <div>
 <a href="https://github.com/eliezermoraesss">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezermoraesss&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliezermoraesss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=eliezermoraesss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezermoraesss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-  ![Snake animation](https://github.com/eliezermoraesss/eliezermoraesss/blob/output/github-contribution-grid-snake.svg)<br><br>
   
