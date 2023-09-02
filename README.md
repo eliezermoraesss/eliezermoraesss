@@ -37,7 +37,7 @@ Estou adquirindo experiência desenvolvendo projetos pessoais e procurando contr
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /><img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br><br>
 
-## 👨🏼‍💻 Projetos
+## 👨🏼‍💻 Principais Projetos
 
 <ul>
 <li>https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react</li>
