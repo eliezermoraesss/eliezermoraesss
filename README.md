@@ -1,50 +1,46 @@
+# 👋🏼 Olá Dev!
+## 💻 Pode chamar de Eli!
 
-### Olá, eu sou Eliezer Moraes Silva! 😁 
-
-- 👨🏼‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas. Meu objetivo e foco é conseguir uma oportunidade na área de desenvolvimento backend. <br>
-- 🎯 Desenvolvedor Back-end Java em ascenção! <br>
-- 📚 Iniciei esta jornada em junho/2021. <br>
-- ⚡ Decidi fazer transição de carreira e desde então estou estudando e me dedicando na programação, montando meu portifólio de projetos pessoais e fazendo networking. Estou focado em Desenvolvimento Backend, e claro, procuro me aprimorar rumo à Engenharia de Software. <br>
-Sou um profissional com mais de 10 anos de experiência atuando entre as áreas de engenharia e manutenção industrial, atuando como desenhista projetista, técnico de manutenção elétrica, eletromecânico, eletricista e também desenvolvendo e executando projetos de automação industrial.
-Ao longo desses anos, desenvolvi disciplina, comunicação, persistência, perseverança e resiliência para resolver os problemas, sempre buscando me comunicar com o time e trabalhar em equipe para atingirmos juntos os nossos resultados.
-Tive a oportunidade de trabalhar com automação industrial, robótica e participei de projetos nas indústrias pelas quais eu passei, desde o planejamento, execução, análise/testes e ações de melhoría.
+- 👨🏼‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas. <br>
+- 🎯 Desenvolvedor Back-End em ascenção! <br>
+- 📚 Iniciei minha emocionante transição de carreira para a área de tecnologia em julho de 2021 <br>
+- ⚡ Depois que desenvolvi e implementei um Sistema de Controle de estoque com Arduino e ESP32, quando era eletricista de manutenção, eu não consegui mais largar a programação, desde então venho me aprofundando neste maravilhoso mundo da tecnologia! A propósito, fui reconhecido por esse projeto, fui efetivado pela empresa, pois esse projeto reduziu desperdícios de tempo de manutenção, pois não havia mais falta de peças de reposição para os manutentores.
+Meu sonho é ser um agente transformador ajudando vidas através da tecnologia.
+Estou adquirindo experiência desenvolvendo projetos pessoais e procurando contribuir com projetos open-source.
 - 🎺 Hobbies: Viajar, caminhar, passear com o doguinho, tocar trompa e trompete, ler, projetos eletrônicos (sistemas embarcados como o Arduino e ESP32) e jogar video game.
+- Sempre buscando conhecimento ✨
 
-### Projetos de Portifólio 💻📚🛠
+## 👨🏼‍💻 Projetos
 
-#### 🔷 https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react
-#### 🔷 https://github.com/eliezermoraesss/demo-dao-jdbc-eliezer
-#### 🔷 https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management
-#### 🔷 https://github.com/eliezermoraesss/api-rest-spring-dscatalog
-#### 🔷 https://github.com/eliezermoraesss/microservices-java-spring-cloud-docker_compose
-#### 🔷 https://github.com/eliezermoraesss/microservices-course-java-spring-cloud
-#### 🔷 https://github.com/eliezermoraesss/workshop-spring-boot-mongodb
-#### 🔷 https://github.com/eliezermoraesss/projeto-sds5-spring-reactjs
-#### 🔷 https://github.com/eliezermoraesss/bds04-validation-security-spring
-#### 🔷 https://github.com/eliezermoraesss/react-layout-navigation-challenge
+### https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react
+### https://github.com/eliezermoraesss/demo-dao-jdbc-eliezer
+### https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management
+### https://github.com/eliezermoraesss/api-rest-spring-dscatalog
+### https://github.com/eliezermoraesss/microservices-java-spring-cloud-docker_compose
+### https://github.com/eliezermoraesss/microservices-course-java-spring-cloud
+### https://github.com/eliezermoraesss/workshop-spring-boot-mongodb
+### https://github.com/eliezermoraesss/projeto-sds5-spring-reactjs
+### https://github.com/eliezermoraesss/bds04-validation-security-spring
+### https://github.com/eliezermoraesss/react-layout-navigation-challenge
 
-### Tecnologias:
+## 🧰 Tecnologias
 
-<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-          <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /><img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-            <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /><br>
-            <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-            <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-            <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-            <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-            <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-            <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-            <img height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-            <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /><img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+          <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+            <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /><br>
+            <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+            <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+            <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+            <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+            <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+            <img height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+            <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /><img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
           
-          
-          
-          
-          
-            
-### Contato:
+           
+## 📞 Contato
 
-<a href="https://www.linkedin.com/in/eliezer-moraes-silva-80b68010b/"><img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://www.linkedin.com/in/eliezer-moraes-silva-80b68010b/"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 <a href="https://wa.me/5519981374137" alt="WhatsApp" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a>
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/eliezermoraes)
