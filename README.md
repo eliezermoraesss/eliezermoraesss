@@ -59,6 +59,6 @@ Estou adquirindo experiência desenvolvendo projetos pessoais e procurando contr
 <div>
 <a href="https://github.com/eliezermoraesss">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=eliezermoraesss&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezermoraesss&layout=compact&langs_count=10&theme=onedark"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezermoraesss&layout=compact&langs_count=10&theme=onedark"/>
 </div>
   
