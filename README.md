@@ -4,7 +4,7 @@
 - 👨🏼‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas. <br>
 - 🎯 Desenvolvedor Back-End em ascenção! <br>
 - 📚 Iniciei minha emocionante transição de carreira para a área de tecnologia em julho de 2021 <br>
-- ⚡ Depois que desenvolvi e implementei um Sistema de Controle de estoque com Arduino e ESP32, quando era eletricista de manutenção, eu não consegui mais largar a programação, desde então venho me aprofundando neste maravilhoso mundo da tecnologia! A propósito, fui reconhecido por esse projeto, fui efetivado pela empresa, pois esse projeto reduziu desperdícios de tempo de manutenção, pois não havia mais falta de peças de reposição para os manutentores.
+- ⚡ Depois que desenvolvi e implementei um [Sistema de Controle de Estoque com Arduino e ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0), quando era eletricista de manutenção, eu não consegui mais largar a programação, desde então venho me aprofundando neste maravilhoso mundo da tecnologia! A propósito, fui reconhecido por esse projeto, fui efetivado pela empresa, pois esse projeto reduziu desperdícios de tempo de manutenção, pois não havia mais falta de peças de reposição para os manutentores.
 Meu sonho é ser um agente transformador ajudando vidas através da tecnologia.
 Estou adquirindo experiência desenvolvendo projetos pessoais e procurando contribuir com projetos open-source.
 - 🎺 Hobbies: Viajar, caminhar, passear com o doguinho, tocar trompa e trompete, ler, projetos eletrônicos (sistemas embarcados como o Arduino e ESP32) e jogar video game.
