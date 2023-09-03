@@ -37,17 +37,17 @@ Estou adquirindo experiência desenvolvendo projetos pessoais e procurando contr
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /><img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br><br>
 
-## 👨🏼‍💻 Principais Projetos
+## 👨🏼‍💻 Projetos
 
 <ul>
 <li>APLICATIVO (Power Apps) PARA CONTROLE DE MANUTENÇÃO DE TROCA DE IMPRESSORAS VIDEOJETS<br>
-  https://www.linkedin.com/posts/eliezer-moraes-silva-80b68010b_powerplatform-microsoftpowerplatformfundamentals-activity-6813635568744886272-07wH?utm_source=share&utm_medium=member_android</li>
+  https://www.linkedin.com/posts/eliezer-moraes-silva-80b68010b_powerplatform-microsoftpowerplatformfundamentals-activity-6813635568744886272-07wH?utm_source=share&utm_medium=member_android</li><br>
 <li>APLICAÇÃO WEB PARA INTERAÇÃO COM SENSOR DE VISÃO INDUSTRIAL IIOT ESP32<br>
-  https://www.linkedin.com/posts/eliezer-moraes-silva-80b68010b_html-webdevelopment-developer-activity-6816818715506606080-jLIQ?utm_source=share&utm_medium=member_android</li>
+  https://www.linkedin.com/posts/eliezer-moraes-silva-80b68010b_html-webdevelopment-developer-activity-6816818715506606080-jLIQ?utm_source=share&utm_medium=member_android</li><br>
 <li>SISTEMA DE GERENCIAMENTO E INVENTÁRIO DE ESTOQUE RFID<br>
-  https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management</li><BR>
+  https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management</li><br>
 <li>https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react</li>
-<li>https://github.com/eliezermoraesss/demo-dao-jdbc-eliezer</li><br>
+<li>https://github.com/eliezermoraesss/demo-dao-jdbc-eliezer</li>
 <li>https://github.com/eliezermoraesss/api-rest-spring-dscatalog</li>
 <li>https://github.com/eliezermoraesss/microservices-java-spring-cloud-docker_compose</li>
 <li>https://github.com/eliezermoraesss/microservices-course-java-spring-cloud</li>
