@@ -1,4 +1,4 @@
-# 👋🏼 Olá Dev!
+# 👋🏼 Olá!
 ## 💻 Seja muito bem-vindo(a)!
 
 <img align="right" alt="Universe" src="https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif"  width="400px"/>
