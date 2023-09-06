@@ -40,12 +40,12 @@ Estou adquirindo experiência desenvolvendo projetos pessoais e procurando contr
 ## 👨🏼‍💻 Projetos
 
 <ul>
-<li>APLICATIVO (Power Apps) PARA CONTROLE DE MANUTENÇÃO DE TROCA DE IMPRESSORAS VIDEOJETS<br>
-  https://www.linkedin.com/posts/eliezer-moraes-silva-80b68010b_powerplatform-microsoftpowerplatformfundamentals-activity-6813635568744886272-07wH?utm_source=share&utm_medium=member_android</li><br>
-<li>APLICAÇÃO WEB PARA INTERAÇÃO COM SENSOR DE VISÃO INDUSTRIAL IIOT ESP32<br>
-  https://www.linkedin.com/posts/eliezer-moraes-silva-80b68010b_html-webdevelopment-developer-activity-6816818715506606080-jLIQ?utm_source=share&utm_medium=member_android</li><br>
-<li>SISTEMA DE GERENCIAMENTO E INVENTÁRIO DE ESTOQUE RFID<br>
+  <li><b>SISTEMA DE GERENCIAMENTO E INVENTÁRIO DE ESTOQUE RFID</b>b><br>
   https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management</li><br>
+<li><b>APLICATIVO (Power Apps) PARA CONTROLE DE MANUTENÇÃO DE TROCA DE IMPRESSORAS VIDEOJETS</b>b><br>
+  https://www.linkedin.com/posts/eliezer-moraes-silva-80b68010b_powerplatform-microsoftpowerplatformfundamentals-activity-6813635568744886272-07wH?utm_source=share&utm_medium=member_android</li><br>
+<li><b>APLICAÇÃO WEB PARA INTERAÇÃO COM SENSOR DE VISÃO INDUSTRIAL IIOT ESP32</b>b><br>
+  https://www.linkedin.com/posts/eliezer-moraes-silva-80b68010b_html-webdevelopment-developer-activity-6816818715506606080-jLIQ?utm_source=share&utm_medium=member_android</li><br>
 <li>https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react</li>
 <li>https://github.com/eliezermoraesss/demo-dao-jdbc-eliezer</li>
 <li>https://github.com/eliezermoraesss/api-rest-spring-dscatalog</li>
