@@ -1,7 +1,18 @@
-# 👋🏼 Olá!
-## 💻 Seja muito bem-vindo(a)!
+# 👋🏼 Hello!
+## 💻 Welcome!
 
 <img align="right" alt="Universe" src="https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif"  width="400px"/>
+
+- 👨🏼‍💻 I am a Systems Analysis and Development student. <br>
+- 🎯 Rising Back-End Developer! <br>
+- 📚 I started my exciting career transition into technology in July 2021 <br>
+- ⚡ After I developed and implemented an [Inventory Control System with Arduino and ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0) programmed in the C++ language, when I was a maintenance electrician, I couldn't I stopped programming, since then I have been delving deeper into this wonderful world of technology! By the way, I was recognized for this project, I was hired by the company, as this project reduced wasted maintenance time, as there was no longer a lack of spare parts for maintainers.
+My dream is to be a transformative agent helping lives through technology.
+I am gaining experience developing personal projects and looking to contribute to open-source projects.
+- 🎺 Hobbies: Traveling, walking, walking the doggo, playing the horn and trumpet, reading, electronic projects (embedded systems such as Arduino and ESP32) and playing video games.
+- Always seeking knowledge. ✨
+
+---
 
 - 👨🏼‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas. <br>
 - 🎯 Desenvolvedor Back-End em ascenção! <br>
@@ -12,7 +23,7 @@ Estou adquirindo experiência desenvolvendo projetos pessoais e procurando contr
 - 🎺 Hobbies: Viajar, caminhar, passear com o doguinho, tocar trompa e trompete, ler, projetos eletrônicos (sistemas embarcados como o Arduino e ESP32) e jogar video game.
 - Sempre buscando conhecimento. ✨
 
-## 📞 Contato
+## 📞 Contact
 
 <a href="https://www.linkedin.com/in/eliezer-moraes-silva-80b68010b/"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/eliezer_moraes)
@@ -22,7 +33,7 @@ Estou adquirindo experiência desenvolvendo projetos pessoais e procurando contr
 <a href="mailto:eliezer.ingproj@gmail.com?subject=Hello Mr. Eliezer" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 <br> <br>
 
-## 🧰 Tecnologias
+## 🧰 Technologies
 
 <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /><img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
