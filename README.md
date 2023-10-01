@@ -48,7 +48,7 @@ Estou adquirindo experiência desenvolvendo projetos pessoais e procurando contr
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /><img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br><br>
 
-## 👨🏼‍💻 Projetos
+## 👨🏼‍💻 Projects
 
 <ul>
   <li><b>SISTEMA DE GERENCIAMENTO E INVENTÁRIO DE ESTOQUE RFID</b><br>
@@ -68,7 +68,7 @@ Estou adquirindo experiência desenvolvendo projetos pessoais e procurando contr
 <li>https://github.com/eliezermoraesss/react-layout-navigation-challenge</li>
 </ul>
 
-## 🤝🏼 Minhas Contribuições
+## 🤝🏼 My Contributions
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eliezermoraesss&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eliezermoraesss/dio-lab-open-source)     
 
