@@ -57,6 +57,10 @@ Estou adquirindo experiência desenvolvendo projetos pessoais e procurando contr
   https://www.linkedin.com/posts/eliezer-moraes-silva-80b68010b_powerplatform-microsoftpowerplatformfundamentals-activity-6813635568744886272-07wH?utm_source=share&utm_medium=member_android</li><br>
 <li><b>APLICAÇÃO WEB PARA INTERAÇÃO COM SENSOR DE VISÃO INDUSTRIAL IIOT - ESP32</b><br>
   https://www.linkedin.com/posts/eliezer-moraes-silva-80b68010b_html-webdevelopment-developer-activity-6816818715506606080-jLIQ?utm_source=share&utm_medium=member_android</li><br>
+</ul>
+
+## ☕ Back-End Projects
+  <ul>
 <li>https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react</li>
 <li>https://github.com/eliezermoraesss/demo-dao-jdbc-eliezer</li>
 <li>https://github.com/eliezermoraesss/api-rest-spring-dscatalog</li>
