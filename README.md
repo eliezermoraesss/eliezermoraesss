@@ -9,7 +9,7 @@
 - ⚡ After I developed and implemented an [Inventory Control System with Arduino and ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0) programmed in the C++ language, when I was a maintenance electrician, I couldn't I stopped programming, since then I have been delving deeper into this wonderful world of technology! By the way, I was recognized for this project, I was hired by the company, as this project reduced wasted maintenance time, as there was no longer a lack of spare parts for maintainers.
 My dream is to be a transformative agent helping lives through technology.
 I am gaining experience developing personal projects and looking to contribute to open-source projects.
-- 🎺 Hobbies: Traveling, walking, walking the doggo, playing the horn and trumpet, reading, electronic projects (embedded systems such as Arduino and ESP32) and playing video games.
+- 🎺 Hobbies: Traveling, walking, running, walking the doggo, playing trumpet, reading, electronic projects (embedded systems such as Arduino and ESP32) and playing video games.
 - Always seeking knowledge. ✨
 
 ---
@@ -20,7 +20,7 @@ I am gaining experience developing personal projects and looking to contribute t
 - ⚡ Depois que desenvolvi e implementei um [Sistema de Controle de Estoque com Arduino e ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0) programado na linguagem C++, quando era eletricista de manutenção, eu não consegui mais largar a programação, desde então venho me aprofundando neste maravilhoso mundo da tecnologia! A propósito, fui reconhecido por esse projeto, fui efetivado pela empresa, pois esse projeto reduziu desperdícios de tempo de manutenção, pois não havia mais falta de peças de reposição para os manutentores.
 Meu sonho é ser um agente transformador ajudando vidas através da tecnologia.
 Estou adquirindo experiência desenvolvendo projetos pessoais e procurando contribuir com projetos open-source.
-- 🎺 Hobbies: Viajar, caminhar, passear com o doguinho, tocar trompa e trompete, ler, projetos eletrônicos (sistemas embarcados como o Arduino e ESP32) e jogar video game.
+- 🎺 Hobbies: Viajar, caminhar, correr, passear com o doguinho, tocar trompete, leitura, projetos eletrônicos (sistemas embarcados como o Arduino e ESP32) e jogar video game.
 - Sempre buscando conhecimento. ✨
 
 ## 📞 Contact
