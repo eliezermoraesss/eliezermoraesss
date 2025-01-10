@@ -3,8 +3,7 @@
 
 <img align="right" alt="Universe" src="https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif"  width="400px"/>
 
-- 👨🏼‍💻 I am a Systems Analysis and Development student. <br>
-- 🎯 Rising Back-End Developer! <br>
+- 👨🏼‍💻 I'm a Software Developer. <br>
 - 📚 I started my exciting career transition into technology in July 2021 <br>
 - ⚡ After I developed and implemented an [Inventory Control System with Arduino and ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0) programmed in the C++ language, when I was a maintenance electrician, I couldn't I stopped programming, since then I have been delving deeper into this wonderful world of technology! By the way, I was recognized for this project, I was hired by the company, as this project reduced wasted maintenance time, as there was no longer a lack of spare parts for maintainers.
 My dream is to be a transformative agent helping lives through technology.
