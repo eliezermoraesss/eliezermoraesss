@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=eliezermoraesss)
+
 # 👋🏼 Hello I'm Eliezer Moraes Silva!
 ## 💻 Welcome!
 
