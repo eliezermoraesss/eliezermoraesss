@@ -6,7 +6,7 @@
 <img align="right" alt="Universe" src="https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif"  width="400px"/>
 
 - 👨🏼‍💻 I'm a Software Developer. <br>
-- 📚 I started my exciting career transition into technology in July 2021 <br>
+- 🎯 Focused in Back-end Development, IA e Cloud Computing.<br>
 - ⚡ After I developed and implemented an [Inventory Control System with Arduino and ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0) programmed in the C++ language, when I was a maintenance electrician, I couldn't I stopped programming, since then I have been delving deeper into this wonderful world of technology! By the way, I was recognized for this project, I was hired by the company, as this project reduced wasted maintenance time, as there was no longer a lack of spare parts for maintainers.
 My dream is to be a transformative agent helping lives through technology.
 I am gaining experience developing personal projects and looking to contribute to open-source projects.
@@ -15,9 +15,8 @@ I am gaining experience developing personal projects and looking to contribute t
 
 ---
 
-- 👨🏼‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas. <br>
-- 🎯 Desenvolvedor Back-End em ascenção! <br>
-- 📚 Iniciei minha emocionante transição de carreira para a área de tecnologia em julho de 2021 <br>
+- 👨🏼‍💻 Sou Analista e Desenvolvimento de Sistemas. <br>
+- 🎯 Focado em Desenvolvimento Back-end, IA e Cloud Computing.<br>
 - ⚡ Depois que desenvolvi e implementei um [Sistema de Controle de Estoque com Arduino e ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0) programado na linguagem C++, quando era eletricista de manutenção, eu não consegui mais largar a programação, desde então venho me aprofundando neste maravilhoso mundo da tecnologia! A propósito, fui reconhecido por esse projeto, fui efetivado pela empresa, pois esse projeto reduziu desperdícios de tempo de manutenção, pois não havia mais falta de peças de reposição para os manutentores.
 Meu sonho é ser um agente transformador ajudando vidas através da tecnologia.
 Estou adquirindo experiência desenvolvendo projetos pessoais e procurando contribuir com projetos open-source.
