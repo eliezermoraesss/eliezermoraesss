@@ -15,7 +15,7 @@ I am gaining experience developing personal projects and looking to contribute t
 
 ---
 
-- 👨🏼‍💻 Sou Analista e Desenvolvimento de Sistemas. <br>
+- 👨🏼‍💻 Sou Analista e Desenvolvedor de Sistemas. <br>
 - 🎯 Focado em Desenvolvimento Back-end, IA e Cloud Computing.<br>
 - ⚡ Depois que desenvolvi e implementei um [Sistema de Controle de Estoque com Arduino e ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0) programado na linguagem C++, quando era eletricista de manutenção, eu não consegui mais largar a programação, desde então venho me aprofundando neste maravilhoso mundo da tecnologia! A propósito, fui reconhecido por esse projeto, fui efetivado pela empresa, pois esse projeto reduziu desperdícios de tempo de manutenção, pois não havia mais falta de peças de reposição para os manutentores.
 Meu sonho é ser um agente transformador ajudando vidas através da tecnologia.
