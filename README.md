@@ -66,6 +66,11 @@ Com uma interface moderna e intuitiva o Eureka!® agiliza consultas e cadastros,
   https://github.com/eliezermoraesss/solidworks-erp-totvs-integration<br>
     <br>🚀 Essa automação reduziu em 96% o tempo de cadastramento, permitindo que os engenheiros realizem essa tarefa em segundos, com um simples clique.
     <br>💰💲O ROI (retorno sobre o investimento) calculado foi extremamente significativo, proporcionando um saving anual, economía, extremamente relevante para a empresa, no valor de aproximadamente R$ 321.000,00 por ano.</li><br>
+<li><b>🎉 AMIGO SECRETO</b>
+  <br>https://github.com/eliezermoraesss/challenge-amigo-secreto_oracle-turma-08<br>
+Um aplicativo web interativo para organizar e sortear amigos secretos de maneira simples e divertida.<br>
+Acesse a aplicação online: [🟢 Amigo Secreto](httpS://eliezermoraesss.github.io/challenge-amigo-secreto_oracle-turma-08/)
+</li><br>
 <li><b>SISTEMA DE GERENCIAMENTO E INVENTÁRIO DE ESTOQUE RFID</b><br>
   https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management</li><br>
 <li><b>APLICATIVO POWER APPS PARA CONTROLE DE MANUTENÇÃO DE IMPRESSORAS VIDEOJETS</b><br>
@@ -76,16 +81,18 @@ Com uma interface moderna e intuitiva o Eureka!® agiliza consultas e cadastros,
 
 ## ☕ Back-End Projects
   <ul>
-<li>https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react</li>
-<li>https://github.com/eliezermoraesss/demo-dao-jdbc-eliezer</li>
-<li>https://github.com/eliezermoraesss/api-rest-spring-dscatalog</li>
-<li>https://github.com/eliezermoraesss/microservices-java-spring-cloud-docker_compose</li>
-<li>https://github.com/eliezermoraesss/microservices-course-java-spring-cloud</li>
-<li>https://github.com/eliezermoraesss/workshop-spring-boot-mongodb</li>
-<li>https://github.com/eliezermoraesss/projeto-sds5-spring-reactjs</li>
-<li>https://github.com/eliezermoraesss/bds04-validation-security-spring</li>
-<li>https://github.com/eliezermoraesss/react-layout-navigation-challenge</li>
-</ul>
+    <li>https://github.com/eliezermoraesss/conversor-moeda-desafio-backend-oracle</li>
+    <li>https://github.com/eliezermoraesss/desafio-dio-conta-terminal</li>
+    <li>https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react</li>
+    <li>https://github.com/eliezermoraesss/demo-dao-jdbc-eliezer</li>
+    <li>https://github.com/eliezermoraesss/api-rest-spring-dscatalog</li>
+    <li>https://github.com/eliezermoraesss/microservices-java-spring-cloud-docker_compose</li>
+    <li>https://github.com/eliezermoraesss/microservices-course-java-spring-cloud</li>
+    <li>https://github.com/eliezermoraesss/workshop-spring-boot-mongodb</li>
+    <li>https://github.com/eliezermoraesss/projeto-sds5-spring-reactjs</li>
+    <li>https://github.com/eliezermoraesss/bds04-validation-security-spring</li>
+    <li>https://github.com/eliezermoraesss/react-layout-navigation-challenge</li>
+  </ul>
 
 ## 🤝🏼 My Contributions
 
