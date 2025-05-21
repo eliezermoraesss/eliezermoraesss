@@ -51,7 +51,22 @@ Estou adquirindo experiência desenvolvendo projetos pessoais e procurando contr
 ## 👨🏼‍💻 Projects
 
 <ul>
-  <li><b>SISTEMA DE GERENCIAMENTO E INVENTÁRIO DE ESTOQUE RFID</b><br>
+  <li><b>EUREKA!® Sistema integrado de gestão industrial</b>
+    <br>https://github.com/eliezermoraesss/eureka_app_pyqt5_project_v2<br><br>
+O Eureka!® é uma aplicação desktop com o objetivo de proporcionar ao usuário uma experiência de usabilidade fácil, dinâmica e limpa.
+
+Seu design foi pensado para ser agradável e fácil de usar. Ele centraliza e integra dados de diferentes departamentos, Engenharia, PCP, Compras, Comercial e Vendas, proporcionando uma visão integrada, limpa e centralizada.
+
+Sua fonte de dados é a base de dados SQL Server do ERP TOTVS Protheus, garantindo confiabilidade e precisão nas informações, além de automatizar processos manuais, reduzindo erros e aumentando a produtividade.
+
+Com uma interface moderna e intuitiva o Eureka!® agiliza consultas e cadastros, reduzindo tempo e aumentando a produtividade do usuário. Sua flexibilidade permite exportação de relatórios nos formatos Excel e PDF. Além disso, a solução reduz a concorrência por licenças TOTVS, gerando economia sem comprometer a produtividade.
+  </li><br>
+  <li><b>Automação para Cadastro de Produtos e Estrutura de Produtos (BOM) integrando SolidWorks e ERP TOTVS Protheus</b>
+    <br>
+  https://github.com/eliezermoraesss/solidworks-erp-totvs-integration<br>
+    <br>🚀 Essa automação reduziu em 96% o tempo de cadastramento, permitindo que os engenheiros realizem essa tarefa em segundos, com um simples clique.
+    <br>💰💲O ROI (retorno sobre o investimento) calculado foi extremamente significativo, proporcionando um saving anual, economía, extremamente relevante para a empresa, no valor de aproximadamente R$ 321.000,00 por ano.</li><br>
+<li><b>SISTEMA DE GERENCIAMENTO E INVENTÁRIO DE ESTOQUE RFID</b><br>
   https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management</li><br>
 <li><b>APLICATIVO POWER APPS PARA CONTROLE DE MANUTENÇÃO DE IMPRESSORAS VIDEOJETS</b><br>
   https://www.linkedin.com/posts/eliezer-moraes-silva-80b68010b_powerplatform-microsoftpowerplatformfundamentals-activity-6813635568744886272-07wH?utm_source=share&utm_medium=member_android</li><br>
