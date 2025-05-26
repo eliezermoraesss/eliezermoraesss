@@ -81,8 +81,6 @@ Acesse a aplicação online: [🟢 Amigo Secreto](httpS://eliezermoraesss.github
 
 ## ☕ Back-End Projects
   <ul>
-    <li>https://github.com/eliezermoraesss/conversor-moeda-desafio-backend-oracle</li>
-    <li>https://github.com/eliezermoraesss/desafio-dio-conta-terminal</li>
     <li>https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react</li>
     <li>https://github.com/eliezermoraesss/demo-dao-jdbc-eliezer</li>
     <li>https://github.com/eliezermoraesss/api-rest-spring-dscatalog</li>
@@ -92,6 +90,9 @@ Acesse a aplicação online: [🟢 Amigo Secreto](httpS://eliezermoraesss.github
     <li>https://github.com/eliezermoraesss/projeto-sds5-spring-reactjs</li>
     <li>https://github.com/eliezermoraesss/bds04-validation-security-spring</li>
     <li>https://github.com/eliezermoraesss/react-layout-navigation-challenge</li>
+
+<li>https://github.com/eliezermoraesss/conversor-moeda-desafio-backend-oracle</li>
+    <li>https://github.com/eliezermoraesss/desafio-dio-conta-terminal</li>
   </ul>
 
 ## 🤝🏼 My Contributions
