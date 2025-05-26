@@ -5,23 +5,23 @@
 
 <img align="right" alt="Universe" src="https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif"  width="400px"/>
 
-- 👨🏼‍💻 I'm a Software Developer. <br>
-- 🎯 Focused in Back-end Development, IA e Cloud Computing.<br>
-- ⚡ After I developed and implemented an [Inventory Control System with Arduino and ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0) programmed in the C++ language, when I was a maintenance electrician, I couldn't I stopped programming, since then I have been delving deeper into this wonderful world of technology! By the way, I was recognized for this project, I was hired by the company, as this project reduced wasted maintenance time, as there was no longer a lack of spare parts for maintainers.
-My dream is to be a transformative agent helping lives through technology.
-I am gaining experience developing personal projects and looking to contribute to open-source projects.
-- 🎺 Hobbies: Traveling, walking, running, walking the doggo, playing trumpet, reading, electronic projects (embedded systems such as Arduino and ESP32) and playing video games.
+- 👨🏼‍💻 I'm a Software Developer, focused on Back-end, AI, and Cloud Computing.  
+- 🎯 My dream is to be a **transformative agent**, helping lives through technology.  
+- ⚡ After developing an [Inventory Control System using Arduino and ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0) while working as a maintenance electrician, I couldn’t stop programming. This project was recognized by the company, which hired me permanently. It drastically reduced downtime due to missing parts.
+- 💡 I’m continuously improving through personal and open-source projects.  
+- 🎺 Hobbies: programming embedded systems, traveling, walking/running, playing trumpet, and gaming.
 - Always seeking knowledge. ✨
 
 ---
 
-- 👨🏼‍💻 Sou Analista e Desenvolvedor de Sistemas. <br>
-- 🎯 Focado em Desenvolvimento Back-end, IA e Cloud Computing.<br>
-- ⚡ Depois que desenvolvi e implementei um [Sistema de Controle de Estoque com Arduino e ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0) programado na linguagem C++, quando era eletricista de manutenção, eu não consegui mais largar a programação, desde então venho me aprofundando neste maravilhoso mundo da tecnologia! A propósito, fui reconhecido por esse projeto, fui efetivado pela empresa, pois esse projeto reduziu desperdícios de tempo de manutenção, pois não havia mais falta de peças de reposição para os manutentores.
-Meu sonho é ser um agente transformador ajudando vidas através da tecnologia.
-Estou adquirindo experiência desenvolvendo projetos pessoais e procurando contribuir com projetos open-source.
-- 🎺 Hobbies: Viajar, caminhar, correr, passear com o doguinho, tocar trompete, leitura, projetos eletrônicos (sistemas embarcados como o Arduino e ESP32) e jogar video game.
+- 👨🏼‍💻 Sou Analista e Desenvolvedor de Sistemas, focado em Back-end, IA e Cloud.  
+- 🎯 Meu sonho é ser um **agente transformador**, ajudando vidas com tecnologia.  
+- ⚡ Após desenvolver um [Sistema de Controle de Estoque com Arduino e ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0) enquanto era eletricista de manutenção, não larguei mais a programação. Esse projeto me destacou, fui efetivado na empresa e o sistema reduziu drasticamente a perda de tempo por falta de peças.
+- 💡 Estou me aperfeiçoando com projetos pessoais e buscando contribuir em projetos open-source.  
+- 🎺 Hobbies: sistemas embarcados, viajar, correr, tocar trompete, ler e jogar.
 - Sempre buscando conhecimento. ✨
+
+---
 
 ## 📞 Contact
 
