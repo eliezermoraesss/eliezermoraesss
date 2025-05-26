@@ -84,8 +84,7 @@ Acesse a aplicação online: [🟢 Amigo Secreto](httpS://eliezermoraesss.github
     <li>https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react</li>
 
 <li>https://github.com/eliezermoraesss/new-baseline</li>
-
-    <li>https://github.com/eliezermoraesss/api-rest-spring-dscatalog</li>
+ <li>https://github.com/eliezermoraesss/api-rest-spring-dscatalog</li>
     <li>https://github.com/eliezermoraesss/microservices-java-spring-cloud-docker_compose</li>
     <li>https://github.com/eliezermoraesss/microservices-course-java-spring-cloud</li>
     <li>https://github.com/eliezermoraesss/workshop-spring-boot-mongodb</li>
