@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=eliezermoraesss)
 
-# 👋🏼 Hello World!
-## 💻 Welcome to my profile!
+# 👋🏼 Hi, I'm Eliezer!
 
 <img align="right" alt="Universe" src="https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif"  width="400px"/>
 
