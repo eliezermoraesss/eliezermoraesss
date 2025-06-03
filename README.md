@@ -8,7 +8,7 @@
 - 🎯 My dream is to be a **transformative agent**, helping lives through technology.  
 - ⚡ After developing an [Inventory Control System using Arduino and ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0) while working as a maintenance electrician, I couldn’t stop programming. This project was recognized by the company, which hired me permanently. It drastically reduced downtime due to missing parts.
 - 💡 I’m continuously improving through personal and open-source projects.  
-- 🎺 Hobbies: playing video games, astronomy, electronics, robotics, 3D printing, embedded systems, walking, running, playing the trumpet and reading.
+- 🎺 Hobbies: playing video games, search about astronomy, electronics, robotics, 3D printing, embedded systems, travel, walking, running, playing the trumpet and reading.
 - Always seeking knowledge. ✨
 
 ---
@@ -17,7 +17,7 @@
 - 🎯 Meu sonho é ser um **agente transformador**, ajudando vidas com tecnologia.  
 - ⚡ Após desenvolver um [Sistema de Controle de Estoque com Arduino e ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0) enquanto era eletricista de manutenção, não larguei mais a programação. Esse projeto me destacou, fui efetivado na empresa e o sistema reduziu drasticamente a perda de tempo por falta de peças.
 - 💡 Estou me aperfeiçoando com projetos pessoais e buscando contribuir em projetos open-source.  
-- 🎺 Hobbies: jogar video-game, astronomia, eletrônica, robótica, impressão 3D, sistemas embarcados, caminhar, correr, tocar trompete e ler.
+- 🎺 Hobbies: jogar video-game, pesquisar sobre astronomia, eletrônica, robótica, impressão 3D, sistemas embarcados, viajar, caminhar, correr, tocar trompete e ler.
 - Sempre buscando conhecimento. ✨
 
 ---
