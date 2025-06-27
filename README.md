@@ -53,7 +53,9 @@
 
 <ul>
   <li><b>EUREKA!® Sistema integrado de gestão industrial</b>
-    <br>https://github.com/eliezermoraesss/eureka_app_pyqt5_project_v2<br><br>
+    <br>
+🟢 Acesse o README online: https://eliezermoraesss.github.io/eureka_app_pyqt5_project_v2/<br>
+Repositório: https://github.com/eliezermoraesss/eureka_app_pyqt5_project_v2<br><br>
 O Eureka!® é uma aplicação desktop com o objetivo de proporcionar ao usuário uma experiência de usabilidade fácil, dinâmica e limpa.
 
 Seu design foi pensado para ser agradável e fácil de usar. Ele centraliza e integra dados de diferentes departamentos, Engenharia, PCP, Compras, Comercial e Vendas, proporcionando uma visão integrada, limpa e centralizada.
@@ -64,13 +66,15 @@ Com uma interface moderna e intuitiva o Eureka!® agiliza consultas e cadastros,
   </li><br>
   <li><b>Automação para Cadastro de Produtos e Estrutura de Produtos (BOM) integrando SolidWorks e ERP TOTVS Protheus</b>
     <br>
-  https://github.com/eliezermoraesss/solidworks-erp-totvs-integration<br>
+  🟢 Acesse o README online: https://eliezermoraesss.github.io/solidworks-erp-totvs-integration/<br>
+  Repositório: https://github.com/eliezermoraesss/solidworks-erp-totvs-integration<br>
     <br>🚀 Essa automação reduziu em 96% o tempo de cadastramento, permitindo que os engenheiros realizem essa tarefa em segundos, com um simples clique.
     <br>💰💲O ROI (retorno sobre o investimento) calculado foi extremamente significativo, proporcionando um saving anual, economía, extremamente relevante para a empresa, no valor de aproximadamente R$ 321.000,00 por ano.</li><br>
 <li><b>🎉 AMIGO SECRETO</b>
-  <br>https://github.com/eliezermoraesss/challenge-amigo-secreto_oracle-turma-08<br>
-Um aplicativo web interativo para organizar e sortear amigos secretos de maneira simples e divertida.<br>
-Acesse a aplicação online: [🟢 Amigo Secreto](httpS://eliezermoraesss.github.io/challenge-amigo-secreto_oracle-turma-08/)
+  <br>
+🟢 Acesse a aplicação online: https://eliezermoraesss.github.io/challenge-amigo-secreto_oracle-turma-08/<br>
+  Repositório: https://github.com/eliezermoraesss/challenge-amigo-secreto_oracle-turma-08<br><br>
+  Um aplicativo web interativo para organizar e sortear amigos secretos de maneira simples e divertida.<br>
 </li><br>
 <li><b>SISTEMA DE GERENCIAMENTO E INVENTÁRIO DE ESTOQUE RFID</b><br>
   https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management</li><br>
