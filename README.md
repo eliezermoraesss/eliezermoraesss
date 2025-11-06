@@ -4,111 +4,81 @@
 
 <img align="right" alt="Universe" src="https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif"  width="400px"/>
 
-- 👨🏼‍💻 I'm a Software Developer, focused on Back-end, AI, and Cloud Computing.  
-- 🎯 My dream is to be a **transformative agent**, helping lives through technology.  
-- ⚡ After developing an [Inventory Control System using Arduino and ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0) while working as a maintenance electrician, I couldn’t stop programming. This project was recognized by the company, which hired me permanently. It drastically reduced downtime due to missing parts.
-- 💡 I’m continuously improving through personal and open-source projects.  
-- 🎺 Hobbies: playing video games, search about astronomy, electronics, robotics, 3D printing, embedded systems, travel, walking, running, playing the trumpet and reading.
+- 👨🏼‍💻 I'm a Software Developer, focused on Back-end, AI, and Cloud Computing.
+- ⚡ After developing an [Inventory Control System using Arduino and ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0) while working as a maintenance electrician, I couldn’t stop programming.  
+  This project was recognized by the company and drastically reduced downtime due to missing parts.
+- 🎺 Hobbies: playing video games, exploring astronomy, electronics, robotics, 3D printing, embedded systems, traveling, walking, running, playing the trumpet, and reading.  
 - Always seeking knowledge. ✨
 
 ---
 
-- 👨🏼‍💻 Sou Analista e Desenvolvedor de Sistemas, focado em Back-end, IA e Cloud.  
-- 🎯 Meu sonho é ser um **agente transformador**, ajudando vidas com tecnologia.  
-- ⚡ Após desenvolver um [Sistema de Controle de Estoque com Arduino e ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0) enquanto era eletricista de manutenção, não larguei mais a programação. Esse projeto me destacou, fui efetivado na empresa e o sistema reduziu drasticamente a perda de tempo por falta de peças.
-- 💡 Estou me aperfeiçoando com projetos pessoais e buscando contribuir em projetos open-source.  
-- 🎺 Hobbies: jogar video-game, pesquisar sobre astronomia, eletrônica, robótica, impressão 3D, sistemas embarcados, viajar, caminhar, correr, tocar trompete e ler.
+- 👨🏼‍💻 Sou Analista e Desenvolvedor de Sistemas, focado em Back-end, IA e Cloud.
+- ⚡ Após desenvolver um [Sistema de Controle de Estoque com Arduino e ESP32](https://www.youtube.com/watch?v=cUS2qG1Hij0) enquanto era eletricista de manutenção, não larguei mais a programação.  
+  Esse projeto me destacou, fui efetivado na empresa e o sistema reduziu drasticamente a perda de tempo por falta de peças. 
+- 🎺 Hobbies: jogar video-game, pesquisar sobre astronomia, eletrônica, robótica, impressão 3D, sistemas embarcados, viajar, caminhar, correr, tocar trompete e ler.  
 - Sempre buscando conhecimento. ✨
 
 ---
-
-## 📞 Contact
-
-<a href="https://www.linkedin.com/in/eliezer-moraes-silva-80b68010b/"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/eliezer_moraes)
-<a href="https://wa.me/5519981374137" alt="WhatsApp" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a>
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/eliezermoraes)
-<a href="mailto:eliezer.moraes@outlook.com?subject=Hello Mr. Eliezer Moraes silva" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> </a>
-<a href="mailto:eliezer.ingproj@gmail.com?subject=Hello Mr. Eliezer" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<br> <br>
+<div align="center">
 
 ## 🧰 Technologies & Tools
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
-<br>
+### 💻 Back-end
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-75A947?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-## 👨🏼‍💻 Projects
+### 🖥️ Front-end
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 
-<ul>
-  <li><b>EUREKA!® Sistema integrado de gestão industrial</b>
-    <br>
-🟢 Acesse o README online: https://eliezermoraesss.github.io/eureka_app_pyqt5_project_v2/<br>
-Repositório: https://github.com/eliezermoraesss/eureka_app_pyqt5_project_v2<br><br>
-O Eureka!® é uma aplicação desktop com o objetivo de proporcionar ao usuário uma experiência de usabilidade fácil, dinâmica e limpa.
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-Seu design foi pensado para ser agradável e fácil de usar. Ele centraliza e integra dados de diferentes departamentos, Engenharia, PCP, Compras, Comercial e Vendas, proporcionando uma visão integrada, limpa e centralizada.
+### 🧩 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Sua fonte de dados é a base de dados SQL Server do ERP TOTVS Protheus, garantindo confiabilidade e precisão nas informações, além de automatizar processos manuais, reduzindo erros e aumentando a produtividade.
+### ⚙️ Embedded & Others
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 
-Com uma interface moderna e intuitiva o Eureka!® agiliza consultas e cadastros, reduzindo tempo e aumentando a produtividade do usuário. Sua flexibilidade permite exportação de relatórios nos formatos Excel e PDF. Além disso, a solução reduz a concorrência por licenças TOTVS, gerando economia sem comprometer a produtividade.
-  </li><br>
-  <li><b>Automação para Cadastro de Produtos e Estrutura de Produtos (BOM) integrando SolidWorks e ERP TOTVS Protheus</b>
-    <br>
-  🟢 Acesse o README online: https://eliezermoraesss.github.io/solidworks-erp-totvs-integration/<br>
-  Repositório: https://github.com/eliezermoraesss/solidworks-erp-totvs-integration<br>
-    <br>🚀 Essa automação reduziu em 96% o tempo de cadastramento, permitindo que os engenheiros realizem essa tarefa em segundos, com um simples clique.
-    <br>💰💲O ROI (retorno sobre o investimento) calculado foi extremamente significativo, proporcionando um saving anual, economía, extremamente relevante para a empresa, no valor de aproximadamente R$ 321.000,00 por ano.</li><br>
-<li><b>🎉 AMIGO SECRETO</b>
-  <br>
-🟢 Acesse a aplicação online: https://eliezermoraesss.github.io/challenge-amigo-secreto_oracle-turma-08/<br>
-  Repositório: https://github.com/eliezermoraesss/challenge-amigo-secreto_oracle-turma-08<br><br>
-  Um aplicativo web interativo para organizar e sortear amigos secretos de maneira simples e divertida.<br>
-</li><br>
-<li><b>SISTEMA DE GERENCIAMENTO E INVENTÁRIO DE ESTOQUE RFID</b><br>
-  https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management</li><br>
-<li><b>APLICATIVO POWER APPS PARA CONTROLE DE MANUTENÇÃO DE IMPRESSORAS VIDEOJETS</b><br>
-  https://www.linkedin.com/posts/eliezer-moraes-silva-80b68010b_powerplatform-microsoftpowerplatformfundamentals-activity-6813635568744886272-07wH?utm_source=share&utm_medium=member_android</li><br>
-<li><b>APLICAÇÃO WEB PARA INTERAÇÃO COM SENSOR DE VISÃO INDUSTRIAL IIOT - ESP32</b><br>
-  https://www.linkedin.com/posts/eliezer-moraes-silva-80b68010b_html-webdevelopment-developer-activity-6816818715506606080-jLIQ?utm_source=share&utm_medium=member_android</li><br>
-</ul>
+---
+
+## 🚀 Featured Projects
+
+| Project                                                                                                                                                                                           | Technologies                               | Description                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| [**EUREKA!® Industrial Management System**](https://eliezermoraesss.github.io/eureka_app_pyqt5_project_v2/)                                                                                       | PyQt5 • MSSQL • Power BI • TOTVS Protheus  | Desktop system for industrial management integrating multiple departments and automating manual tasks.               |
+| [**SolidWorks + ERP TOTVS Integration**](https://eliezermoraesss.github.io/solidworks-erp-totvs-integration/)                                                                                     | C# • VBA • SQL Server • TOTVS Protheus API | Automation that integrates CAD and ERP, reducing 96% of registration time and generating an annual saving of R$321K. |
+| [**Amigo Secreto Web App**](https://eliezermoraesss.github.io/challenge-amigo-secreto_oracle-turma-08/)                                                                                           | JavaScript • HTML • CSS • GitHub Pages     | Fun interactive app for organizing and drawing Secret Santa participants.                                            |
+| [**RFID Warehouse Management**](https://github.com/eliezermoraesss/arduino-rfid-uhf-warehouse-management)                                                                                         | Arduino • RFID UHF • C++ • ESP32           | Embedded system for smart warehouse inventory tracking using RFID technology.                                        |
+| [**IIoT Vision Sensor Web Interface**](https://www.linkedin.com/posts/eliezer-moraes-silva-80b68010b_html-webdevelopment-developer-activity-6816818715506606080-jLIQ)                             | ESP32 • HTML • WebSockets • IoT            | Web interface to visualize and interact with industrial vision sensors using ESP32.                                  |
+| [**Power Apps - Videojet Maintenance Control**](https://www.linkedin.com/posts/eliezer-moraes-silva-80b68010b_powerplatform-microsoftpowerplatformfundamentals-activity-6813635568744886272-07wH) | Microsoft Power Apps • Power Automate      | No-code app for managing and tracking printer maintenance tasks.                                                     |
+
+---
 
 ## ☕ Back-End Projects
-  <ul>
-    <li>https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react</li>
 
-<li>https://github.com/eliezermoraesss/new-baseline</li>
- <li>https://github.com/eliezermoraesss/api-rest-spring-dscatalog</li>
-    <li>https://github.com/eliezermoraesss/microservices-java-spring-cloud-docker_compose</li>
-    <li>https://github.com/eliezermoraesss/microservices-course-java-spring-cloud</li>
-    <li>https://github.com/eliezermoraesss/workshop-spring-boot-mongodb</li>
-    <li>https://github.com/eliezermoraesss/projeto-sds5-spring-reactjs</li>
-    <li>https://github.com/eliezermoraesss/bds04-validation-security-spring</li>
-    <li>https://github.com/eliezermoraesss/react-layout-navigation-challenge</li>
-  <li>https://github.com/eliezermoraesss/demo-dao-jdbc-eliezer</li>
-  
-<li>https://github.com/eliezermoraesss/conversor-moeda-desafio-backend-oracle</li>
-    <li>https://github.com/eliezermoraesss/desafio-dio-conta-terminal</li>
-  </ul>
+| Repository                                                                                                                     | Technologies                                      | Summary                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [iStock Product Management System](https://github.com/eliezermoraesss/istock-product-managment-smart-system-java-spring-react) | Java • Spring Boot • React • PostgreSQL           | Smart inventory management system integrating frontend and backend in monorepo architecture. |
+| [New Baseline](https://github.com/eliezermoraesss/new-baseline)                                                                | Java • Spring Boot • React • TailwindCSS          | SPA integrated with MSSQL for dynamic baseline data visualization and filtering.             |
+| [Microservices with Spring Cloud](https://github.com/eliezermoraesss/microservices-java-spring-cloud-docker_compose)           | Spring Boot • Spring Cloud • Docker • API Gateway | Microservices architecture with load balancing and centralized configuration.                |
+| [MongoDB Workshop](https://github.com/eliezermoraesss/workshop-spring-boot-mongodb)                                            | Spring Boot • MongoDB                             | CRUD operations using MongoDB and Spring Boot.                                               |
+| [Currency Converter](https://github.com/eliezermoraesss/conversor-moeda-desafio-backend-oracle)                                | Java • GSON • ExchangeRate API                    | CLI currency converter consuming a public exchange rate API.                                 |
+
+---
+## 📱 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliezer-moraes-silva-80b68010b/) [![Perfil DIO](https://img.shields.io/badge/DIO.me-30A3DC?style=for-the-badge&logo=dio&logoColor=white)](https://web.dio.me/users/eliezer_moraes) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519981374137) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eliezermoraes) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eliezer.moraes@outlook.com?subject=Hello%20Eliezer) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliezer.ingproj@gmail.com?subject=Hello%20Eliezer)
+
+---
 
 ## 🤝🏼 My Contributions
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eliezermoraesss&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eliezermoraesss/dio-lab-open-source)     
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eliezermoraesss&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eliezermoraesss/dio-lab-open-source)
+
+---
 
 <div>
 <a href="https://github.com/eliezermoraesss">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=eliezermoraesss&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezermoraesss&layout=compact&langs_count=10&theme=onedark"/>
 </div>
-  
+</div>
