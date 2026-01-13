@@ -50,7 +50,9 @@
 ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=ssh&logoColor=white)
 
 ### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner%20Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/92da1258-9c33-420f-8dd4-30cb04a6050e/public_url)
+[![Oracle Cloud Infrastructure Certified](https://img.shields.io/badge/Oracle%20OCI%20Certified-FF0000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=EF6D76E63400956B79675D96F61471A2E966AC7B4B7F49C1AAA5220C4512CCD2)
+
 
 ### ⚙️ Embedded & Others
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
