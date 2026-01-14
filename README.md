@@ -90,14 +90,16 @@
 ---
 
 ## 🤝🏼 My Contributions
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eliezermoraesss&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/eliezermoraesss/dio-lab-open-source)
-
----
-
-<div>
-<a href="https://github.com/eliezermoraesss">
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=eliezermoraesss&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezermoraesss&layout=compact&langs_count=10&theme=onedark"/>
+<!-- Profile Summary Cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliezermoraesss&theme=onedark" />
 </div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eliezermoraesss&theme=github-dark" />
 </div>
+
+<br/>
